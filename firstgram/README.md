@@ -8,7 +8,7 @@ snsの画像投稿アプリを作成(instagram参考)
 - React
 - 状態管理(Redux,Reduxtoolkit)
 - TypeScript
-- scss(FLOOCSS)
+- scss(BEM)
 - Firebase(Firestore Database,Storage,Authentication)
 - Docker
 
